@@ -10,6 +10,12 @@ public int getId() {
 public void setId(int id) {
 	this.id = id;
 }
+@Override
+public String toString() {
+	return "StudentVO [id=" + id + ", name=" + name + ", dept=" + dept + ", getId()=" + getId() + ", getName()="
+			+ getName() + ", getDept()=" + getDept() + ", getClass()=" + getClass() + ", hashCode()=" + hashCode()
+			+ ", toString()=" + super.toString() + "]";
+}
 public String getName() {
 	return name;
 }
