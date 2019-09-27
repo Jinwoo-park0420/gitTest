@@ -14,6 +14,12 @@ public void setBno(String bno) {
 public String getName() {
 	return name;
 }
+@Override
+public String toString() {
+	return "MemberVO [bno=" + bno + ", name=" + name + ", age=" + age + ", getBno()=" + getBno() + ", getName()="
+			+ getName() + ", getAge()=" + getAge() + ", getClass()=" + getClass() + ", hashCode()=" + hashCode()
+			+ ", toString()=" + super.toString() + "]";
+}
 public void setName(String name) {
 	this.name = name;
 }
