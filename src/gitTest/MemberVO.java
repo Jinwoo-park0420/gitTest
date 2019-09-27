@@ -8,6 +8,12 @@ private String age;
 public String getBno() {
 	return bno;
 }
+@Override
+public String toString() {
+	return "MemberVO [bno=" + bno + ", name=" + name + ", age=" + age + ", getBno()=" + getBno() + ", getName()="
+			+ getName() + ", getAge()=" + getAge() + ", getClass()=" + getClass() + ", hashCode()=" + hashCode()
+			+ ", toString()=" + super.toString() + "]";
+}
 public void setBno(String bno) {
 	this.bno = bno;
 }
