@@ -17,6 +17,12 @@
 	<li>JAVA</li>
 	<li>JSP</li>
 	<li>SERVLET</li>
-</ul>
+	</ul>
+	<ul>
+		<li>A</li>
+		<li>B</li>
+		<li>C</li>
+	</ul>
+
 </body>
 </html>
