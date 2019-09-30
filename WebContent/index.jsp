@@ -17,12 +17,6 @@
 	<li>JAVA</li>
 	<li>JSP</li>
 	<li>SERVLET</li>
-	</ul>
-	<ul>
-		<li>A</li>
-		<li>B</li>
-		<li>C</li>
-	</ul>
-
+</ul>
 </body>
 </html>
