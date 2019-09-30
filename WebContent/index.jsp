@@ -17,9 +17,10 @@
 	<li>JAVA</li>
 	<li>JSP</li>
 	<li>SERVLET</li>
+	</ul>
 	<div>
 	div영역추가
 	</div>
-</ul>
+
 </body>
 </html>
